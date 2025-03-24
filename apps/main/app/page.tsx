@@ -8,8 +8,8 @@ const Home = () => {
         Go To Docs Module
       </Link>
 
-      <Link href="/docs" className='px-4 py-2 rounded-lg text-2xl border border-dotted border-white bg-red-500 hover:bg-red-600 transition-all !text-white font-bold'>
-        Go To Docs Module
+      <Link href="/web" className='px-4 py-2 rounded-lg text-2xl border border-dotted border-white bg-red-500 hover:bg-red-600 transition-all !text-white font-bold'>
+        Go To Web Module
       </Link>
     </div>
   )
